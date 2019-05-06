@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Yesica Moreno\\source\\ejercicioscaleb\\E21_E22_DeterminarMayorMenorEnArreglo\\E21_E22_DeterminarMayorMenorEnArreglo\\E21_E22_DeterminarMayorMenorEnArreglo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Yesica Moreno\\source\\ejercicioscaleb\\E21_E22_DeterminarMayorMenorEnArreglo\\E21_E22_DeterminarMayorMenorEnArreglo\\E21_E22_DeterminarMayorMenorEnArreglo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yesica Moreno\\source\\ejercicioscaleb\\E21_E22_DeterminarMayorMenorEnArreglo\\E21_E22_DeterminarMayorMenorEnArreglo\\E21_E22_DeterminarMayorMenorEnArreglo.csproj",
+        "projectName": "E21_E22_DeterminarMayorMenorEnArreglo",
+        "projectPath": "C:\\Users\\Yesica Moreno\\source\\ejercicioscaleb\\E21_E22_DeterminarMayorMenorEnArreglo\\E21_E22_DeterminarMayorMenorEnArreglo\\E21_E22_DeterminarMayorMenorEnArreglo.csproj",
+        "packagesPath": "C:\\Users\\Yesica Moreno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yesica Moreno\\source\\ejercicioscaleb\\E21_E22_DeterminarMayorMenorEnArreglo\\E21_E22_DeterminarMayorMenorEnArreglo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Yesica Moreno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
